@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("idea git github modify");
         System.out.println("idea git github modify02");
         System.out.println("idea git master 1002");
+        System.out.println("idea git github clone");
     }
 }
