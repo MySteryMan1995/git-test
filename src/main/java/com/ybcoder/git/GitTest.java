@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("idea git version02");
         System.out.println("idea git master modify");
         System.out.println("idea git hot-fix modify");
+        System.out.println("idea git github modify");
     }
 }
